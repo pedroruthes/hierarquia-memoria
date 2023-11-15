@@ -1,5 +1,4 @@
 TRABALHO M2 - ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES II
-Prof. Thiago Felski Pereira
 
 Alunos:
 
