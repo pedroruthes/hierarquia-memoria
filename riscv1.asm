@@ -159,6 +159,7 @@ Fim:
             addi t1, t1, 1           # Incrementa o contador interno
             j for_j_c
         fim_j_c:
+            addi t0, t0, 1
             j for_i_c
     fim_i_c:
         j Fim_Programa
